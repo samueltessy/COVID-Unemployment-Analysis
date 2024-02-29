@@ -1,4 +1,4 @@
-# Finding New Normal After COVID-19: Navigating Unemployment Patterns and Emerging Trends
+# Unmasking Opportunity: Navigating India's Labor Market Post-COVID
 
 ## Department of Computing and Mathematics
 ### Computing and Digital Technology Postgraduate Programmes
