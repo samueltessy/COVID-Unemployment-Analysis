@@ -7,7 +7,7 @@
 - **Student name:** Theresa Elohor Kosin
 - **University I.D.:** 22475863
 - **Academic supervisor:** Ali Kashif Bashir
-- **External collaborator (optional):**
+- **External collaborator (optional):** Emuejevoke Eshemitan
 - **Project title:** Finding New Normal After COVID-19: Navigating Unemployment Patterns and Emerging Trends.
 - **Degree title:** MSc Artificial Intelligence
 - **Project unit code:** 6G7V0007_2223_9F
