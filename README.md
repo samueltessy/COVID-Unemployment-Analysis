@@ -1,4 +1,4 @@
-# Project: Finding New Normal After COVID-19: Navigating Unemployment Patterns and Emerging Trends
+# Finding New Normal After COVID-19: Navigating Unemployment Patterns and Emerging Trends
 
 ## Department of Computing and Mathematics
 ### Computing and Digital Technology Postgraduate Programmes
