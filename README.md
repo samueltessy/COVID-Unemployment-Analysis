@@ -1,4 +1,7 @@
 # Unmasking Opportunity: Navigating India's Labor Market Post-COVID
+![maxresdefault](https://github.com/Davidsonity/COVID-Unemployment-Analysis/assets/96771321/c9ffa6cc-2cd3-4d7f-8330-858a8001c46e)
+
+
 
 ## Department of Computing and Mathematics
 ### Computing and Digital Technology Postgraduate Programmes
